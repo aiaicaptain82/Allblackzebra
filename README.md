@@ -2,18 +2,18 @@
 
 <p align="center">
 
-<a href="https://formbricks.com">
 
-<img width="120" alt="Open Source Privacy First Experience Management Solution Qualtrics Alternative Logo" src="https://github.com/formbricks/formbricks/assets/72809645/0086704f-bee7-4d38-9cc8-fa42ee59e004">
+
+
 
 </a>
 
-<h3 align="center">Formbricks</h3>
+<h3 align="center">Surfaye</h3>
 
 <p align="center">
 Harvest user-insights, build irresistible experiences.
 <br />
-<a href="https://formbricks.com/">Website</a> | <a href="https://formbricks.com/discord">Join Discord community</a>
+
 </p>
 </p>
 
